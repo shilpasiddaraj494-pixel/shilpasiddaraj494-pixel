@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shilpa Siddaraju 👋</h1>
 
 <h3 align="center">
-  Data Sciene| Data Analysis
+  Data Science | Data Analysis
 </h3>
 
 <p align="center">
