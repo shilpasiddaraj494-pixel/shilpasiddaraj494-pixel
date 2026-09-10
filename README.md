@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Berlin, Germany · Power BI · SQL · Python · Machine Learning · Artificial Intelligence · Data Engineering
+  Berlin, Germany 
 </p>
 
 <p align="center">
