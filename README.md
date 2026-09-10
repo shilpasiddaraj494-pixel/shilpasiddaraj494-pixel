@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Shilpa Siddaraju 👋</h1>
 
 <h3 align="center">
-  Data Scientist & Data Analyst | Machine Learning • Business Intelligence • Data Engineering
+  Data Scientist & Data Analyst 
 </h3>
 
 <p align="center">
-  Berlin, Germany · Power BI · SQL · Python · Machine Learning
+  Berlin, Germany · Power BI · SQL · Python · Machine Learning · Artificial Intelligence · Data Engineering
 </p>
 
 <p align="center">
