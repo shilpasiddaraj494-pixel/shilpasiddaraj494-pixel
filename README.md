@@ -1,96 +1,135 @@
-Hello, I'm Shilpa 👋🏻
+<h1 align="center">Hi, I'm Shilpa Siddharaju 👋</h1>
 
-Data Analyst with expertise in data analysis and reporting, dashboard development, data modelling, statistical analysis, and machine learning.
+<h3 align="center">Data Scientist & Data Analyst | Machine Learning • Business Intelligence • Data Engineering</h3>
 
-🗄️ Querying, cleaning, and analysing data using SQL
+<p align="center">
+  Berlin, Germany · M.Sc. Data Science · 2+ years of experience
+</p>
 
-📊 Developing interactive dashboards and KPI reports using Power BI
+<p align="center">
+  <a href="https://github.com/shilpasiddaraj494-pixel">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  </a>
+</p>
 
-🐍 Performing data analysis, automation, and modelling using Python
+About Me
 
-🤖 Building predictive solutions using machine learning
+I am a Berlin-based data professional with 2+ years of experience building analytical solutions, machine-learning systems, LLM applications, and data pipelines. I hold an M.Sc. in Data Science from the University of Europe for Applied Sciences and enjoy turning complex data into practical products and clear business decisions.
 
-📚 Projects
+🔭 Building projects across Data Science, AI, Analytics, and Data Engineering
 
-Welcome to my portfolio, where I showcase projects across:
+📊 Experienced with Python, SQL, Power BI, machine learning, and data visualization
 
-📊 Power BI & SQL
+🤖 Worked with LLMs, RAG pipelines, LangChain, FastAPI, and OpenAI integrations
 
-🤖 Python, Machine Learning & AI
+☁️ Familiar with Azure, Spark, Kafka, Airflow, PostgreSQL, dbt, and Docker
 
-⚙️ Data Engineering
+🇩🇪 Based in Berlin and currently learning German
 
-🛠️ Tools
+Featured Projects
 
-💻 Languages: SQL, Python
+AI, Machine Learning & Data Engineering
 
-🗃️ Databases: MySQL, PostgreSQL
+Project
 
-📈 Visualisation: Power BI, Excel, DAX, Power Query
+What I Built
 
-🧠 Machine Learning & AI: Scikit-learn, LangChain, RAG, Hugging Face, FastAPI
+Technology
 
-⚙️ Data Engineering: PySpark, Spark, Kafka, Airflow, dbt, Docker
+AI Fraud Investigation System
 
-☁️ Cloud & Workflow: Azure, AWS, Git, GitHub, Agile
+An AI-assisted fraud investigation workflow combining machine-learning risk scores with explainable transaction reports.
 
-👋🏻 Connect with Me
+Python, ML, Hugging Face, LLMs
 
-💼 LinkedIn
+Contract Intelligence RAG System
 
-<a id="power-bi-sql"></a>
+A retrieval-augmented generation system that answers contract questions with grounded evidence and validation checks.
 
-📊 Power BI & SQL
+Python, RAG, LangChain, FastAPI
 
-📦 Supply Chain Delivery Risk Intelligence — Sep 2026
+E-commerce Data Platform
 
-Predicted late-delivery risk across 180K+ orders, identifying 23K high-risk orders, $12.70M in sales exposure, and achieving 72.05% model accuracy.
-Python Scikit-learn Random Forest Power BI
+An end-to-end data-engineering platform for ingesting, transforming, orchestrating, and serving e-commerce data.
 
-🛒 E-commerce Performance Dashboard — Aug 2026
+Spark, Kafka, Airflow, PostgreSQL, dbt, Docker
 
-Built an interactive dashboard analysing 99K orders generating $14M in revenue across products, regions, delivery performance, and customer satisfaction.
-Power BI Power Query DAX Data Modelling
+Data Analytics & Business Intelligence
 
-📡 Telecom Customer Churn Intelligence — Aug 2026
+Project
 
-Identified a 26.54% churn rate and approximately $4M in lost revenue, revealing high-risk customer segments for targeted retention.
-MySQL SQL Power Query DAX Power BI
+What I Built
 
-<a id="python-ml-ai"></a>
+Technology
 
-🤖 Python, Machine Learning & AI
+Supply Chain Delivery Risk Prediction
 
-🕵️ AI Fraud Investigation System — Sep 2026
+Predicted late-delivery risk across 180K+ records and converted model outputs into an interactive logistics dashboard.
 
-Combined machine-learning fraud probabilities with explainable risk signals and automatically generated investigation reports.
-Python Machine Learning Hugging Face LLMs
+Python, scikit-learn, Power BI
 
-📄 Contract Intelligence RAG System — Sep 2026
+Telecom Customer Churn Analysis
 
-Built a contract question-answering system that retrieves relevant clauses, generates evidence-grounded responses, and validates answer quality.
-Python RAG LangChain FastAPI
+Analyzed a 26.54% churn rate, quantified revenue risk, and identified high-risk customer segments.
 
-<a id="data-engineering"></a>
+SQL, MySQL, Power BI
 
-⚙️ Data Engineering
+E-commerce Sales Dashboard
 
-🏗️ E-commerce Data Platform — Sep 2026
+Built an executive dashboard covering $14M in revenue, 99K orders, customer behavior, reviews, and delivery performance.
 
-Built an end-to-end platform for e-commerce data ingestion, distributed processing, orchestration, transformation, storage, and analytics delivery.
-Spark Kafka Airflow PostgreSQL dbt Docker
+Power BI, Power Query, DAX
 
-<!--
-**shilpasiddaraj494-pixel/shilpasiddaraj494-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
 
-Here are some ideas to get you started:
+Data Analysis & Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+DAX · Power Query · Data Cleaning · Exploratory Data Analysis · Data Modelling · Dashboard Design
+
+Machine Learning & AI
+
+
+
+
+
+
+
+Classification · Feature Engineering · Model Evaluation · NLP · LLM Integration · RAG
+
+Data Engineering & Cloud
+
+
+
+
+
+
+
+
+PySpark · dbt · ETL/ELT · Data Pipelines · Azure Data Factory · Azure Databricks
+
+Experience
+
+AI Developer — Danson Solutions
+Developed Python-based data and LLM solutions using Pandas, LangChain, and OpenAI integrations.
+
+Data Science Intern — Verzeo
+Performed data cleaning, exploratory analysis, feature preparation, and machine-learning experimentation.
+
+Education
+
+M.Sc. Data Science
+University of Europe for Applied Sciences, Berlin
+
+Let's Connect
+
+I am open to opportunities and collaborations in Data Analytics, Data Science, Machine Learning, AI, and Data Engineering.
+
+<p align="center">
+  <a href="https://github.com/shilpasiddaraj494-pixel">Explore my repositories</a>
+</p>
