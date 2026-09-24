@@ -12,12 +12,7 @@
   <a href="https://www.linkedin.com/in/shilpa-siddaraj-738623280">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://shilpa-ai-ml-portfolio-2026.shilpasiddaraj494.chatgpt.site/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
 </p>
-
----
 
 ## 👩‍💻 About Me
 
@@ -33,65 +28,13 @@ My work focuses on developing practical AI systems that combine predictive model
 - ☁️ Working with **AWS, Azure, PySpark, PostgreSQL, and modern ML tooling**
 - 🇩🇪 Based in Berlin and currently learning German
 
----
-
 ## 🚀 Featured Projects
 
-### 🧠 Autonomous AI Incident Intelligence Platform
-
-An autonomous AI system designed to detect, investigate, classify, and analyse production incidents using machine learning and multi-agent workflows.
-
-**What I Built**
-
-- Developed anomaly-detection workflows using **TensorFlow**
-- Implemented log classification using **PyTorch**
-- Orchestrated autonomous workflows using **LangGraph**
-- Built multi-agent investigation workflows using **CrewAI**
-- Integrated **RAG, Pinecone, MCP, and tool calling**
-- Containerised and deployed the architecture using **Docker, Kubernetes, AWS, and CI/CD**
-
-**Tech Stack**
-
-`Python` · `TensorFlow` · `PyTorch` · `LangGraph` · `CrewAI` · `MCP` · `Pinecone` · `n8n` · `Docker` · `Kubernetes` · `AWS`
-
----
-
-### 🕵️ [AI Fraud Investigation System](https://github.com/shilpasiddaraj494-pixel/ai-fraud-investigation-system)
-
-An end-to-end AI-powered fraud investigation system combining machine learning, explainable AI, and Generative AI.
-
-**What I Built**
-
-- Processed large-scale transaction data using **PySpark**
-- Built fraud-risk classification models using **XGBoost**
-- Performed feature engineering, model evaluation, and risk-threshold optimisation
-- Integrated **SHAP** to explain transaction-level predictions
-- Used **Qwen and Hugging Face** to generate evidence-based fraud investigation summaries
-
-**Tech Stack**
-
-`Python` · `PySpark` · `XGBoost` · `Scikit-learn` · `SHAP` · `Qwen` · `Hugging Face`
-
----
-
-### 📄 [Contract Intelligence RAG System](https://github.com/shilpasiddaraj494-pixel/contract-intelligence-rag-system)
-
-A Retrieval-Augmented Generation system for answering complex questions from legal contracts using grounded evidence.
-
-**What I Built**
-
-- Built document-processing and retrieval pipelines for private contract collections
-- Implemented semantic retrieval using **FAISS**
-- Developed RAG workflows using **LangChain**
-- Integrated **Qwen** for grounded natural-language generation
-- Returned supporting contract evidence alongside generated answers
-- Exposed the system through production-ready **FastAPI** endpoints
-
-**Tech Stack**
-
-`Python` · `LangChain` · `FAISS` · `Qwen` · `FastAPI` · `Scikit-learn` · `RAG`
-
----
+| Project | What I Built | Technology |
+|---|---|---|
+| **Autonomous AI Incident Intelligence Platform** | Built an autonomous AI incident investigation platform combining anomaly detection, log classification, agentic workflows, retrieval, and automated remediation support. | TensorFlow, PyTorch, LangGraph, CrewAI, MCP, Pinecone, n8n, Kubernetes, AWS |
+| [AI Fraud Investigation System](https://github.com/shilpasiddaraj494-pixel/ai-fraud-investigation-system) | Built an end-to-end fraud-risk system combining PySpark transaction processing, XGBoost classification, SHAP explainability, and LLM-generated investigation summaries. | Python, PySpark, XGBoost, SHAP, Qwen, Hugging Face |
+| [Contract Intelligence RAG System](https://github.com/shilpasiddaraj494-pixel/contract-intelligence-rag-system) | Built a Retrieval-Augmented Generation system for legal-contract intelligence with semantic retrieval, grounded answers, supporting evidence, and FastAPI services. | Python, LangChain, FAISS, Qwen, FastAPI, Scikit-learn |
 
 ## 🛠️ Technical Skills
 
@@ -104,16 +47,12 @@ A Retrieval-Augmented Generation system for answering complex questions from leg
 
 `XGBoost` · `Classification` · `Regression` · `Feature Engineering` · `Model Evaluation` · `SHAP`
 
----
-
 ### 🤖 Generative & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 `LLMs` · `RAG` · `Prompt Engineering` · `LangGraph` · `CrewAI` · `MCP` · `Tool Calling` · `n8n`
-
----
 
 ### ⚙️ AI Engineering & MLOps
 
@@ -123,8 +62,6 @@ A Retrieval-Augmented Generation system for answering complex questions from leg
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 `REST APIs` · `MLOps` · `Model Deployment` · `CI/CD` · `Git`
-
----
 
 ### 💾 Data & Development
 
@@ -136,8 +73,6 @@ A Retrieval-Augmented Generation system for answering complex questions from leg
 
 `SQL` · `PySpark` · `FAISS` · `Pinecone` · `Hugging Face` · `Claude Code`
 
----
-
 ## 🎓 Education
 
 ### M.Sc. in Data Science
@@ -147,21 +82,13 @@ Potsdam, Germany
 
 **Master's Thesis:** Financial time-series analysis using Python, including preprocessing, exploratory data analysis, statistical analysis, trend identification, visualisation, and performance evaluation.
 
----
-
 ## 🎯 Current Focus
-
-I'm currently focused on opportunities in:
 
 **AI Engineering · Machine Learning Engineering · Data Science · Applied AI · Generative AI**
 
----
-
 ## 👋🏻 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shilpa-siddaraj-738623280)
-- 🌐 [AI/ML Portfolio](https://shilpa-ai-ml-portfolio-2026.shilpasiddaraj494.chatgpt.site/)
-- 💻 [GitHub](https://github.com/shilpasiddaraj494-pixel)
+- [LinkedIn](https://www.linkedin.com/in/shilpa-siddaraj-738623280)
 
 ---
 
