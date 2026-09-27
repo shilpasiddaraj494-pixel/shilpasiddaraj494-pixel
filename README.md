@@ -32,7 +32,7 @@ My work focuses on developing practical AI systems combining predictive modellin
 
 | Project | What I Built | Technology |
 |---|---|---|
-| [Autonomous AI Incident Intelligence Platform](PASTE-YOUR-FIRST-PROJECT-GITHUB-LINK-HERE) | Built an autonomous AI incident investigation platform combining anomaly detection, log classification, multi-agent workflows, RAG, tool access, and automated incident-response workflows. | TensorFlow, PyTorch, LangGraph, CrewAI, MCP, Pinecone, n8n, Kubernetes, AWS, CI/CD |
+| [Autonomous AI Incident Intelligence Platform](https://github.com/shilpasiddaraj494-pixel/autonomous-ai-incident-intelligence-platform) | Built an autonomous AI incident investigation platform combining anomaly detection, log classification, multi-agent workflows, RAG, tool access, and automated incident-response workflows. | TensorFlow, PyTorch, LangGraph, CrewAI, MCP, Pinecone, n8n, Kubernetes, AWS, CI/CD |
 | [AI Fraud Investigation System](https://github.com/shilpasiddaraj494-pixel/ai-fraud-investigation-system) | Built an end-to-end fraud-risk ML pipeline with transaction processing, classification, explainability, risk scoring, and AI-generated investigation summaries. | PySpark, XGBoost, SHAP, Qwen, Hugging Face |
 | [Contract Intelligence RAG System](https://github.com/shilpasiddaraj494-pixel/contract-intelligence-rag-system) | Built a RAG system for legal-contract intelligence using semantic retrieval, grounded LLM generation, supporting evidence, and API-based access. | LangChain, FAISS, Qwen, FastAPI, Scikit-learn |
 
